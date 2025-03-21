@@ -4,7 +4,6 @@ import { FiDownload } from "react-icons/fi";
 
 
 const EditiorNavbar = () => {
-  const
   return (
     <>
       <div className="EditiorNavbar flex items-center justify-between px-[100px] h-[80px] bg-[#141414]">

@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 const GridCard = ({item}) => {
   const [isDeleteModelShow, setIsDeleteModelShow] = useState(false);
   const navigate = useNavigate();
-const
+
   return (
     <>
       <div className="gridCard bg-[#141414] w-[270px] p-[10px] h-[180px] cursor-pointer hover:bg-[#202020] rounded-lg shadow-lg shadow-black/50">

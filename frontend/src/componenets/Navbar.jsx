@@ -9,7 +9,7 @@ import { api_base_url, toggleClass } from '../helper';
 const Navbar = ({ isGridLayout, setIsGridLayout }) => {
 
   const navigate = useNavigate();
-const
+
   const [data, setData] = useState(null);
   const [error, setError] = useState("");;
 

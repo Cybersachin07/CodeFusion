@@ -12,8 +12,6 @@ const SignUp = () => {
 
   const [error, setError] = useState("");
 
-  
-
   const navigate = useNavigate();
 
   const submitForm = (e) => {
